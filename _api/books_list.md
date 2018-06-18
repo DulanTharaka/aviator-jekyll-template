@@ -1,5 +1,5 @@
 ---
-title: /books
+title: invoce
 position: 1.0
 type: get
 description: List all books
